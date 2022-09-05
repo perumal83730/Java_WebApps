@@ -3,6 +3,6 @@
 <body>
 <h1>MaanavaN Learn Code DevOps Course</h1>
 <h1>MaanavaN Learn Code Jenkins Course</h1>
-<h1>MaanavaN Learn Code Docker Course</h1>
+<h1>MaanavaN Learn Code Kubernetes Course</h1>
 </body>
 </html>
